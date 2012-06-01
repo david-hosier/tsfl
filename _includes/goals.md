@@ -1,4 +1,5 @@
 # Goals
+---
 Part of the process of getting healthy is setting goals. My coach Becky has sent me some information on how to more effectively write up goals, so these are a little different than how people normally think of goals being stated. Following are my fundamental goals.
 
 * To get back, as close as I can, to the person I was when I got married. Back then, I was vigorous and active. I owe it to my wife to reverse the terrible departure I've made away from who/what I was.
