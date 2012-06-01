@@ -1,0 +1,11 @@
+#!/bin/bash
+
+FILE="_posts/`date "+%Y-%m-%d"`-$1.md"
+touch $FILE
+
+cat > $FILE <<DELIM
+---
+layout: post
+title: "CHANGE ME"
+---
+DELIM
