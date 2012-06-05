@@ -1,5 +1,5 @@
 {% for post in posts limit: listing_limit %}
-  <h3><a href="{{ post.url }}" class="dark-link">{{ post.title }}</a></h3>
+  <h3><a href="{{ BASE_PATH }}{{ post.url }}" class="dark-link">{{ post.title }}</a></h3>
   <h4 class="low-top">
     Posted on {{ post.date | date_to_string }}
    <!--   {% unless no_category %}
@@ -10,6 +10,6 @@
   </h4>
   
   <p>{{ post.content | strip_html | truncatewords: 75 }}</p>
-  <p><a href="{{ post.url }}">Read more...</a></p>
+  <p><a href="{{ BASE_PATH }}{{ post.url }}">Read more...</a></p>
 {% endfor %}
 
