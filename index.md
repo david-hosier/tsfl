@@ -15,6 +15,10 @@ It turns out that an old friend of mine named Becky Reilly is a health coach wit
 
 I debated back and forth about whether to keep this whole thing private until I started reaching my goals or just tell as many people as possible in an effort to get that much more accountability. This site should tell you which way I've decided to go with it. I knew I wanted to do a blog or keep a journal, but then this idea hit me...I'll open-source my journey toward better living. What I want to try out is to open this up to external contributions such as menu ideas, meal ideas, and whatever else seems appropriate. This is my first time using GitHub Pages, so it may take a while to figure out how to do a few things. I plan to just blog whenever the feeling strikes me as well as post periodic updates with measurements and photos.
 
+# Weight Chart
+---
+![Weight Chart](/img/WeightChart.png)
+
 {% include goals.md %}
 
 # Recent posts
