@@ -17,6 +17,7 @@ I debated back and forth about whether to keep this whole thing private until I 
 
 # Weight Chart
 ---
+
 ![Weight Chart](/img/WeightChart.png)
 
 {% include goals.md %}
